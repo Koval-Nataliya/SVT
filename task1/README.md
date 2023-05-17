@@ -2,4 +2,4 @@
 
 Файл main.cpp - INMOST
 
-Файл report - отчет
+Файл report_for_svt-1 - отчет
