@@ -3,3 +3,5 @@
 Файл main.cpp - INMOST
 
 Файл report_for_svt-1 - отчет
+
+Файл task1.png - портрет матрицы
